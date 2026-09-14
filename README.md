@@ -1,0 +1,1 @@
+## A dump of what I learn everyday about software engineering
