@@ -1,4 +1,5 @@
 # Go Project Structure
+## Below is an example of a highly used Go project structure.
 
 - `/cmd` — Main source files. For example, an application's `main.go` should live at `/cmd/foo/main.go`.
 - `/internal` — Private code that other applications or libraries should not import.
