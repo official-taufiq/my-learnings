@@ -7,7 +7,7 @@ func main() {
 
 	if true {
 		i := 1
-		fmt.Println(i)
+		fmt.Println(i) //prints 1
 	}
-	fmt.Println(i)
+	fmt.Println(i) // but this prints 0
 }
